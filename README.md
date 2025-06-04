@@ -1,5 +1,5 @@
 👋 Hi, I’m @prabhat60343
-👀 I’m interested in building innovative web applications, exploring stock market analysis tools, and creating AI-based projects like chatbots.
+👀 I’m interested in building innovative web applications.
 🌱 I’m currently learning React.js and modern development frameworks like Vite.
 💞️ I’m looking to collaborate on web development projects, AI-integrated applications, and frontend-heavy apps with creative designs.
 📫 How to reach me:  
