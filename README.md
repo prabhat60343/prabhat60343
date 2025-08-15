@@ -214,9 +214,9 @@ graph TD
 ### 📡 RESUME VIEWER
 
 ```html
-<!-- RESUME VIEWER IFRAME (UPLOAD YOUR PDF TO GOOGLE DRIVE AND REPLACE THE FILE ID) -->
+<!-- RESUME VIEWER IFRAME (GOOGLE DRIVE PDF) -->
 <iframe 
-    src="https://drive.google.com/file/d/YOUR_GOOGLE_DRIVE_FILE_ID/preview" 
+    src="https://drive.google.com/file/d/1vVsDHsL0mXoo7thPhl5yLCES4gl-M-8I/preview" 
     width="100%" 
     height="600px" 
     frameborder="0"
@@ -225,7 +225,7 @@ graph TD
 </iframe>
 ```
 
-[![📥 DOWNLOAD_RESUME](https://img.shields.io/badge/📥_DOWNLOAD_RESUME-00ff41?style=for-the-badge&logo=adobeacrobatreader&logoColor=black&labelColor=0D1117)](https://drive.google.com/file/d/YOUR_FILE_ID/view?usp=sharing)
+[![📥 DOWNLOAD_RESUME](https://img.shields.io/badge/📥_DOWNLOAD_RESUME-00ff41?style=for-the-badge&logo=adobeacrobatreader&logoColor=black&labelColor=0D1117)](https://drive.google.com/file/d/1vVsDHsL0mXoo7thPhl5yLCES4gl-M-8I/view?usp=drive_link)
 
 ---
 
